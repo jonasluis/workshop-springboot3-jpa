@@ -63,6 +63,6 @@ public class OrderItemPK implements Serializable {
 		} else if (!product.equals(other.product))
 			return false;
 		return true;
-	}
+	} 
 	
 }
